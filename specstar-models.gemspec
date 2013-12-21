@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'specstar-remarkable', '~> 0.0.0'
   s.add_runtime_dependency 'rspec-core'
-  s.add_runtime_dependency 'rspec-expectations'
+  s.add_runtime_dependency 'rspec-expectations', '~> 3.0.0.beta1'
 end
